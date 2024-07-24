@@ -1,0 +1,5 @@
+[Default Applications]
+application/pdf=org.pwmt.zathura.desktop
+application/epub+zip=org.pwmt.zathura.desktop
+text=nvim.desktop
+image=feh.desktop
