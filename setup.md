@@ -11,8 +11,21 @@ sudo pacman -S base-devel git libx11 libxft xorg-server xorg-xinit libxinerama
 sudo pacman -S ttf-hack-nerd
 ```
 
-## programs
+## programs of my choice
 
-```bash
-sudo pacman -S btop calibre fcitx5 flameshot nvim ranger vlc zathura fish firefox feh
-```
+- calibre
+- fcitx5
+- flameshot (or hyprshot with Hyprland)
+- nvim
+- ranger
+- vlc
+- zathura
+- fish
+- feh
+- pulseaudio
+- playerctl
+- wofi
+- alacritty
+- chromium
+- btop
+
